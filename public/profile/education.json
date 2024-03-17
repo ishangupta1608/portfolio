@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "August 2017 - August 2021",
+            "cardTitle": "B.Tech, Information Technology",
+            "cardSubtitle":"Institute of Engineering and Technology Dr RMLAU, AYODHYA",
+            "cardDetailedText": "Marks - 75%"
+        },
+        {
+            "title": "Apr 2015 - Apr 2016",
+            "cardTitle": "INTERMEDIATE",
+            "cardSubtitle":"DR AMBEDKAR INT COLL ATA, JALAUN",
+            "cardDetailedText": "Marks - 85%"
+        },
+        {
+            "title": "Apr 2013 - Apr 2014",
+            "cardTitle": "High School",
+            "cardSubtitle":"DR AMBEDKAR INT COLL ATA, JALAUN",
+            "cardDetailedText": "Marks - 84%"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "projects" : [
+        {
+            "title": "ONLINE ENTRANCE EXAMINATION SYSTEM WEBSITE",
+            "bodyText": "Online exams, also known as virtual exams, enables examiners to conduct exams using the internet for remote candidates. In an online examination, candidates are expected to answer the questions on their systems. The test window closes once the exam is over.\n - Created UI using Angular.\n - Created Rest api.\n - Api Integration.\n - Generate report with Jasper report. ",
+            "tags" : [
+                "Html",
+                "css",
+                "JavaScript",
+                "Angular",
+                "Java",
+                "Spring Boot"
+            ]
+        },
+        {
+            "title": "ClearOn",
+            "bodyText": "The ClearOn is a **coupon printing order system** to manage entire business life cycle for the client. This system is integrated with a printing company system where orders created from ClearOn canbe further tracked with printing company system.\n - Created Rest api.\n - Excel File Upload and Download.\n - Generate report with Jasper report.\n - Managing and showing data in two languages (English & Swedish).",
+            "tags" : [
+                "Java",
+                "Spring Boot",
+                "Thymeleaf",
+                "JPA",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "title": "WYSIWYG Editor Tool",
+            "bodyText": "In this project calling 3rd party API integration. Create template using wysiwyg editor and send messages and images automatically in fixed time in social media like whatsapp, LinkedIn and gmail.\n - Created Rest api.\n - 3rd party API Integation of LinkedIn and Whatsapp.\n - Excel File Upload and Download.\n - Email sending with Thymleaf \n - Database design.",
+            "tags" : [
+                "Java",
+                "Spring Boot",
+                "Thymeleaf",
+                "JPA",
+                "PostgreSQL",
+                "Angular"
+            ]
+        },
+        {
+            "title": "Multitenancy",
+            "bodyText": "Multitenancy is a software architecture where a single software instance can serve multiple, distinct user groups.This multi-tenant architecture includes the use of a single database with multiple schemas. This tenant system uses a single application instance with individual databases for each tenant.\n - SpringBoot Architecture, Angular.\n - Excel File Upload and Download..\n - Excel File Upload and Download.\n - Email sending with Thymleaf \n - Dynamic database creation using jdbc.\n - Send E-mail when a new user is created.",
+            "tags" : [
+                "Java",
+                "Spring Boot",
+                "Spring Caching",
+                "Dynamic Database creation",
+                "Thymeleaf",
+                "JPA",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "title": "Lending System",
+            "bodyText": "The Lending is a admin panel of company management system which manage multiple companies, companies employs and user subscription. Admin can create company and company admin in admin panel. company user can register user subscription and when it will expire, he can re-active that subscription. It will manage using lending API.\n - Created Rest api.\n - Image and File Upload and Download.\n - Email sending with Thymleaf.\n - Authentication and Authorization. \n - Send E-mail when a new user is created.",
+            "tags" : [
+                "Java",
+                "Spring Boot",
+                "Spring Caching",
+                "Thymeleaf",
+                "JPA",
+                "PostgreSQL"
+            ]
+        }
+    ]
+}
