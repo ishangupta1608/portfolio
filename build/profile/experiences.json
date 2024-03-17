@@ -1,0 +1,25 @@
+{
+    "experiences": [
+        {
+            "title": "Java Developer",
+            "subtitle": "56North Software Pvt Ltd, Ahmedabad",
+            "workType": "Full-time",
+            "workDescription": [
+               
+
+
+            ],
+            "dateText": "01/2022 – Present"
+        },
+        {
+            "title": "Java Developer",
+            "subtitle": "Softpro India Computer Technologies Private Limited, Lucknow",
+            "workType": "Internship",
+            "workDescription": [
+               
+
+            ],
+            "dateText": "01/2021 – 06/2021"
+        }
+    ]
+}
